@@ -837,8 +837,6 @@ Choose a license for your repository (for example **MIT**) and add a `LICENSE` f
 
 <div align="center">
 
-**Made with love, just for you.** 🤖❤️
-
 *Ollie — Desk Robot — powered by Anu*
 
 If you build your own Ollie, I would love to see it. ⭐ Star the repo and share a photo!
