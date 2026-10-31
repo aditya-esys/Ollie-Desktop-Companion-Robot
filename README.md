@@ -7,11 +7,8 @@ It shows live time and weather, reacts to touch and motion with 13 hand-drawn em
 
 *powered by Anu* ❤️
 
-<img width="1080" height="1350" alt="04_Study_Timer_4x5" src="https://github.com/user-attachments/assets/94cf5bc7-4458-451d-8665-5a705113fb3e" />
-<img width="1080" height="1350" alt="05_Health_Reminder_4x5" src="https://github.com/user-attachments/assets/ca966a1f-f857-4fd7-a7b2-9f5c0496f0b6" />
-<img width="1080" height="1350" alt="01_Ollie_Intro_4x5" src="https://github.com/user-attachments/assets/3b7c1c57-4c72-49c7-8df6-7f4deb279db6" />
-<img width="1080" height="1350" alt="02_Emotions_Love_Eyes_4x5" src="https://github.com/user-attachments/assets/9e27f408-030c-4218-a7db-2591879f04e2" />
-<img width="1080" height="1350" alt="03_Live_Weather_4x5" src="https://github.com/user-attachments/assets/05939834-03ce-4226-a512-9d0c5a0c7a27" />
+<img width="1080" height="1350" alt="02_Emotions_Love_Eyes_4x5" src="https://github.com/user-attachments/assets/cfe49d65-44fc-4374-be53-08e784953ce8" />
+<img width="1080" height="1350" alt="01_Ollie_Intro_4x5" src="https://github.com/user-attachments/assets/adc8b433-d83e-409b-b3bc-962212967d24" />
 
 
 ![Platform](https://img.shields.io/badge/platform-ESP32--C3-blue)
@@ -19,7 +16,7 @@ It shows live time and weather, reacts to touch and motion with 13 hand-drawn em
 ![Display](https://img.shields.io/badge/display-1.3%22%20OLED%20SH1106-lightgrey)
 ![Sensor](https://img.shields.io/badge/sensor-MPU6050-orange)
 ![Status](https://img.shields.io/badge/status-working%20on%20hardware-brightgreen)
-![License](https://img.shields.io/badge/license-add%20your%20license-informational)
+
 
 <!-- Add your own photos / GIFs here -->
 <!-- ![Ollie hero](docs/ollie-hero.png) -->
