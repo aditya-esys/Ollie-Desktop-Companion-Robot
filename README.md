@@ -1,8 +1,3 @@
-<img width="1080" height="1350" alt="05_Health_Reminder_4x5" src="https://github.com/user-attachments/assets/9ba6387a-a66b-4ba7-b6b1-63a3c6dce006" />
-<img width="1080" height="1350" alt="03_Live_Weather_4x5" src="https://github.com/user-attachments/assets/51286b66-538d-48c4-a07c-d836fc399857" />
-<img width="1080" height="1350" alt="04_Study_Timer_4x5" src="https://github.com/user-attachments/assets/7f791a0d-bec0-46a2-b0b4-dbecf458a928" />
-<div align="center">
-
 # 🤖 Ollie — The Tiny Desk Robot
 
 **A pocket-sized, emotional desk companion built on an ESP32-C3.**
