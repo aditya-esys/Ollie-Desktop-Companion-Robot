@@ -1,3 +1,6 @@
+<img width="1080" height="1350" alt="05_Health_Reminder_4x5" src="https://github.com/user-attachments/assets/9ba6387a-a66b-4ba7-b6b1-63a3c6dce006" />
+<img width="1080" height="1350" alt="03_Live_Weather_4x5" src="https://github.com/user-attachments/assets/51286b66-538d-48c4-a07c-d836fc399857" />
+<img width="1080" height="1350" alt="04_Study_Timer_4x5" src="https://github.com/user-attachments/assets/7f791a0d-bec0-46a2-b0b4-dbecf458a928" />
 <div align="center">
 
 # 🤖 Ollie — The Tiny Desk Robot
@@ -7,8 +10,11 @@ It shows live time and weather, reacts to touch and motion with 13 hand-drawn em
 
 *powered by Anu* ❤️
 
-<img width="1080" height="1350" alt="02_Emotions_Love_Eyes_4x5" src="https://github.com/user-attachments/assets/cfe49d65-44fc-4374-be53-08e784953ce8" />
-<img width="1080" height="1350" alt="01_Ollie_Intro_4x5" src="https://github.com/user-attachments/assets/adc8b433-d83e-409b-b3bc-962212967d24" />
+<img width="1080" height="1350" alt="01_Ollie_Intro_4x5" src="https://github.com/user-attachments/assets/d448b3f7-241b-4ef7-875c-2785e5283f25" />
+<img width="1080" height="1350" alt="02_Emotions_Love_Eyes_4x5" src="https://github.com/user-attachments/assets/ad247db5-b471-4485-9453-08a0dd410456" />
+<img width="1080" height="1350" alt="03_Live_Weather_4x5" src="https://github.com/user-attachments/assets/8ead8d2a-9df4-42ad-a89d-8198b889b291" />
+<img width="1080" height="1350" alt="04_Study_Timer_4x5" src="https://github.com/user-attachments/assets/125ccf72-d615-4bed-89be-e591f12bfdd2" />
+<img width="1080" height="1350" alt="05_Health_Reminder_4x5" src="https://github.com/user-attachments/assets/4a8a37c1-29a1-4d4f-a1a3-bccded5c087e" />
 
 
 ![Platform](https://img.shields.io/badge/platform-ESP32--C3-blue)
