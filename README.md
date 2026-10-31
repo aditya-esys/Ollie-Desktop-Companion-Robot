@@ -10,6 +10,7 @@ It shows live time and weather, reacts to touch and motion with 13 hand-drawn em
 <img width="1080" height="1350" alt="03_Live_Weather_4x5" src="https://github.com/user-attachments/assets/8ead8d2a-9df4-42ad-a89d-8198b889b291" />
 <img width="1080" height="1350" alt="04_Study_Timer_4x5" src="https://github.com/user-attachments/assets/125ccf72-d615-4bed-89be-e591f12bfdd2" />
 <img width="1080" height="1350" alt="05_Health_Reminder_4x5" src="https://github.com/user-attachments/assets/4a8a37c1-29a1-4d4f-a1a3-bccded5c087e" />
+[![Ollie Desktop Companion Robot Demo](https://img.youtube.com/vi/v0AZ0yxd_Cc/0.jpg)](https://youtube.com/shorts/v0AZ0yxd_Cc)
 
 
 ![Platform](https://img.shields.io/badge/platform-ESP32--C3-blue)
